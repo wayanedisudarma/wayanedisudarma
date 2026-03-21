@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wayan Edi Sudarma</h1>
 <p align="center">
-  <strong>Backend Software Engineer | Java & Spring Boot Specialist</strong><br>
+  <strong>Senior Software Engineer | Java & Spring Boot Specialist</strong><br>
   Building scalable distributed systems from Indonesia.
 </p>
 
